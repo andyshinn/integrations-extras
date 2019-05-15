@@ -1,0 +1,24 @@
+{
+  "display_name": "celery",
+  "maintainer": "help@datadoghq.com",
+  "manifest_version": "1.0.0",
+  "name": "celery",
+  "metric_prefix": "celery.",
+  "metric_to_check": "",
+  "creates_events": false,
+  "short_description": "",
+  "guid": "e66f5802-8108-4fed-a682-f59bdcba9c3d",
+  "support": "core",
+  "supported_os": [
+    "linux",
+    "mac_os",
+    "windows"
+  ],
+  "public_title": "Datadog-celery Integration",
+  "categories": [
+    ""
+  ],
+  "type": "check",
+  "is_public": false,
+  "integration_id": "celery"
+}
