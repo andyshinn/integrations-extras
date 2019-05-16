@@ -1,0 +1,24 @@
+{
+  "display_name": "updatenotifier",
+  "maintainer": "andys@andyshinn.as",
+  "manifest_version": "1.0.0",
+  "name": "updatenotifier",
+  "metric_prefix": "updatenotifier.",
+  "metric_to_check": "",
+  "creates_events": false,
+  "short_description": "",
+  "guid": "4c56692b-91e3-4207-9c08-97688c999964",
+  "support": "contrib",
+  "supported_os": [
+    "linux",
+    "mac_os",
+    "windows"
+  ],
+  "public_title": "Datadog-updatenotifier Integration",
+  "categories": [
+    ""
+  ],
+  "type": "check",
+  "is_public": false,
+  "integration_id": "updatenotifier"
+}
